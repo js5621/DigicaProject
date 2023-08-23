@@ -1,0 +1,3 @@
+C:\Users\lg\source\repos\DigiDataControl\DigiDataControl\obj\Debug\DigiDataControl.njsproj.AssemblyReference.cache
+C:\Users\lg\source\repos\DigiDataControl\DigiDataControl\obj\Debug\DigiDataControl.njsproj.CoreCompileInputs.cache
+C:\Users\lg\source\repos\DigiDataControl\DigiDataControl\bin\Microsoft.NodejsTools.WebRole.dll
